@@ -3,4 +3,4 @@
 
 A personal portfolio assignment for COMPRE 2.
 
-Proceed to ```text portfolio/ ``` to see project structure
+Proceed to ```portfolio/ ``` to see project structure
