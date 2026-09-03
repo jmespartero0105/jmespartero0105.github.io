@@ -1,4 +1,4 @@
-# jmespartero0105.github.io
+# jmespartero0105.github.io/portfolio
 # Janus Marco L. Espartero — Personal Portfolio
 
 A personal portfolio assignment for COMPRE 2.
