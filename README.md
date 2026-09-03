@@ -1,11 +1,11 @@
 # jmespartero0105.github.io
 # Janus Marco L. Espartero — Personal Portfolio
 
-A minimalist, bold, and modern personal portfolio website tailored for a 4th-year Bachelor of Science in Information Technology student. The design elegantly balances a highly technical aesthetic with creative, fine-art photography sensibilities.
+A personal portfolio assignment for COMPRE 2.
 
 ## About
 
-This project was built to present a realistic, high-end developer identity. It serves as a centralized hub to showcase my software engineering projects, educational achievements, technical skills, and photography awards. The repository contains a single cohesive codebase optimized for GitHub Pages, with zero backend or framework dependencies.
+This project was built to present a the achievements and the identity of JM Espartero. It serves as a centralized hub to showcase my software engineering projects, educational achievements, technical skills, and photography awards. The repository contains a single cohesive codebase optimized for GitHub Pages, with zero backend or framework dependencies.
 
 ## Technologies
 
@@ -29,13 +29,15 @@ This project was built to present a realistic, high-end developer identity. It s
 
 ## File Organization Requirements
 
-To maintain structure when pushing to GitHub, arrange your directory exactly like this:
+To maintain structure when pushing to GitHub, the project is arranged like this:
 
 ```text
 portfolio/
 │
-├── index.html        
-├── README.md       
+├── index.html
+├── style.css
+├── script.js
+├── README.md    
 │
 └── assets/
     │
